@@ -1,0 +1,11 @@
+{
+  "name": "Just Fitting Twitter Icon",
+  "description": "The icons in Twitter will be better by using this:)",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "content_scripts": [{
+      "matches": ["https://tweetdeck.twitter.com/", "https://twitter.com/*"],
+      "js": ["src/js/main.js"],
+      "run_at": "document_end"
+  }]
+}
