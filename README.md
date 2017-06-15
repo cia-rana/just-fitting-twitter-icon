@@ -1,6 +1,8 @@
 # Just Fitting Twitter Icon
+
 ## Description
-The icons in Twitter will be better by using this:)
+
+The icons in Twitter will be better by using this chrome extension:)
 
 ## Usage
 
@@ -16,7 +18,9 @@ The icons in Twitter will be better by using this:)
 ## Demo
 
 Before
-![before](./img/before.png)
+
+![before](./img/beforeIcon.png)
 
 After
-![before](./img/after.png)
+
+![before](./img/afterIcon.png)
